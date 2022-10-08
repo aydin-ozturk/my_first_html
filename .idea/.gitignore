@@ -6,5 +6,5 @@
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
-/vitaly/vitaly_index.html
-/vitaly/vitaly_my_style.css
+folder_to_ignore/
+/vitaly
