@@ -1,0 +1,28 @@
+body {
+    margin: 40px;
+    background-image: url('images/table.jpg');
+    font-family: Helvetica;
+    font-size: larger;
+}
+.d1 {
+    background-color: #ebe1d1;
+    color: #75450e;
+
+}
+
+#header {
+
+    text-align:center;
+}
+
+h1 {
+    color: #265da6
+}
+
+.d2 {
+    margin-left: 40px;
+    text-decoration: underline;
+    font-style: italic;
+    color: orangered;
+    font-size: x-large;
+}
