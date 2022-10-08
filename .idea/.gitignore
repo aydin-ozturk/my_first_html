@@ -1,3 +1,4 @@
+
 # Default ignored files
 /shelf/
 /workspace.xml
@@ -6,5 +7,7 @@
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
-folder_to_ignore/
-/vitaly
+a
+/a
+*/a
+a/*
